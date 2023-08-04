@@ -20,6 +20,3 @@ function Categories({ filterItems, categories }) {
 }
 
 export default Categories;
-/* <button className="filter-btn" onClick={() => filterItems("all")}>
-        all
-      </button> */
